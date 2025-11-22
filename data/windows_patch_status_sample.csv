@@ -1,0 +1,2 @@
+ComputerName,OSCaption,OSVersion,OSBuild,LastBootUpTime,PendingReboot,MissingUpdateCount,CriticalMissingCount,SecurityMissingCount,SampleMissingUpdates,PSWindowsUpdateNote,ReportGeneratedUtc
+SME-SERVER-01,Microsoft Windows Server 2019 Standard,10.0.17763,17763,2025-01-10T08:42:15,True,7,2,3,KB5034123 - 2025-01 Cumulative Update; KB5034000 - .NET Framework Security Update,,2025-01-17T09:30:00Z

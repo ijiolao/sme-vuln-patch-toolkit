@@ -1,0 +1,11 @@
+ComputerName,KB,Title,MsrcSeverity,IsSecurityUpdate,Category,RebootRequired,IsDownloaded,IsInstalled,Size,LastDeploymentChangeTime
+DESKTOP-01,KB5034123,2025-01 Cumulative Security Update,Critical,True,Security Updates,True,False,False,250MB,2025-01-10T12:00:00Z
+DESKTOP-01,KB5034000,.NET Framework Security Rollup,Important,True,Security Updates,False,False,False,80MB,2025-01-05T09:30:00Z
+DESKTOP-01,KB5029987,Windows Defender Platform Update,Moderate,True,Security Updates,False,False,False,40MB,2025-01-02T11:15:00Z
+DESKTOP-01,KB5030101,Servicing Stack Update,Low,False,Updates,False,False,False,15MB,2025-01-01T10:00:00Z
+DESKTOP-01,KB5032222,Cumulative .NET 4.8 Patch,Important,True,Security Updates,False,False,False,115MB,2025-01-08T14:40:00Z
+DESKTOP-01,KB5031000,Malicious Software Removal Tool,Moderate,True,Security Updates,False,False,False,12MB,2025-01-03T13:20:00Z
+DESKTOP-01,KB5029111,Update for Windows 10 22H2,Low,False,Updates,False,False,False,100MB,2025-01-04T08:50:00Z
+DESKTOP-01,KB5033333,Cumulative Reliability Update,Important,False,Updates,False,False,False,95MB,2025-01-06T15:00:00Z
+DESKTOP-01,KB5031200,Security Platform Integrity Update,Critical,True,Security Updates,True,False,False,50MB,2025-01-09T07:45:00Z
+DESKTOP-01,KB5034555,WinHTTP Security Update,Important,True,Security Updates,False,False,False,22MB,2025-01-07T16:30:00Z

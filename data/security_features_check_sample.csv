@@ -1,0 +1,4 @@
+ComputerName,ASLR_Enabled,DEP_Enabled,ASLR_Details,DEP_Details,MitigationNote,SMB_Server_RequireSigning,SMB_Server_EnableSigning,SMB_Client_RequireSigning,SMB_Client_EnableSigning,RDP_Enabled,RDP_NLA_Required,ReportGeneratedUtc
+SERVER01,True,True,ForceRelocateImages=ON;HighEntropy=ON;BottomUp=ON,Enable=ON;AtlThunkEmulation=OFF,,True,True,True,True,True,True,2025-11-22T11:40:08Z
+SERVER02,True,False,ForceRelocateImages=ON;HighEntropy=OFF;BottomUp=ON,Enable=OFF,DEP disabled by system policy,True,True,False,True,True,False,2025-11-22T11:40:08Z
+DESKTOP-01,False,True,,Enable=ON,Get-ProcessMitigation returned no ASLR data.,False,False,False,False,False,False,2025-11-22T11:40:08Z

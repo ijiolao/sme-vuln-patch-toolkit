@@ -1,0 +1,3 @@
+environment,asset_group,owner,os,frequency,window,patch_type,change_type,lead_time_days,max_downtime_minutes,depends_on,notes
+Production,Windows Servers - Core Apps,Infrastructure Team,Windows Server 2019,Monthly,2nd Sunday 01:00–04:00 UTC,OS + Critical Middleware,Normal,7,60,DB Patch Window - Saturday,Avoid financial month-end
+UAT,Web Frontend,App Team,Linux,Bi-weekly,Wednesday 19:00–21:00 UTC,OS + App Containers,Standard,3,30,,
